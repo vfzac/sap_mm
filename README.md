@@ -33,7 +33,11 @@
    financial supply chain management, treasury management, performance management, and compliance management functions in a single, 
    integrated solution
    
-   
+* SAP terms
+  - Customer Relationship Management (CRM)
+    * concept of making the customer the focus and its business processes  
+  - Production
+    * SAP supports development and execution of efficient production plans 
    
    
 * Procurement Cycle
