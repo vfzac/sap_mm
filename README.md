@@ -1,1 +1,26 @@
 # sap_mm
+
+------------------------
+
+### SAP Functional Intro
+
+* SAP Solutions
+  1. SAP Business Suite  
+     - allows companies to manage their entire value chain and the most critical business process.
+  2. SAP ERP  
+     - provides functions for both corporate headquarters and small subsidiaries.
+  3. SAP Business All-in-One  
+     - for vertical( industry-specific or country-specific) solutions that are based on the technology of SAP Business Suite.
+  4. SAP Business by Design  
+     - most complete and adpatable on-demand business solution designed to liberate mid-size companies.
+  5. SAP Business One  
+     - comprehensive integrated ERP application with an interface that is similar to Windows
+ 
+ * SAP GUI
+ 
+ 1. SAP Logon  
+  *things to note*
+    - saplogon.ini
+      - This file is normally preconfigured centrally and made available to end users.
+  - Screen Structure
+  
