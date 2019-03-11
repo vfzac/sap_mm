@@ -52,3 +52,7 @@
    - MK05 - Block Vendor
    - ME9F - Purchase Order Message Output
    - ME9A - RFQ Messages
+
+* Afternoon 110319
+  - NACE -> Purchase Order -> ZNEU -> def vaule: dispatch time= send with application own transaction
+  
