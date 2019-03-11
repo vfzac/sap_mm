@@ -48,4 +48,7 @@
   
   
 * Important TCODES  
-    MEK1 - used for creating price condition
+   - MEK1 - used for creating price condition
+   - MK05 - Block Vendor
+   - ME9F - Purchase Order Message Output
+   - ME9A - RFQ Messages
