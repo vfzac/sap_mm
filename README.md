@@ -21,6 +21,31 @@
  1. SAP Logon  
   *things to note*
     - saplogon.ini
-      - This file is normally preconfigured centrally and made available to end users.
-  - Screen Structure
+      - This file is normally preconfigured centrally and made available to end users.   
+    - Screen Structure
+      - **Status Bar**
+      - **Command Field**
+      - Menu Bar
+      - Standard Toolbar
+      - Application Toolbar
+ 2. SAP Financials  
+   SAP ERP Financials, which is part of the SAP ERP application, combines core accounting and financial reporting capabilities with 
+   financial supply chain management, treasury management, performance management, and compliance management functions in a single, 
+   integrated solution
+   
+   
+   
+   
+* Procurement Cycle
+  1. demand determination
+  2. source determination
+  3. supplier/vendor selection
+  4. purchase order processing
+  5. order monitoring
+  6. goods receipt
+  7. invoice verification
+  8. payment processing 
   
+  
+* Important TCODES  
+    MEK1 - used for creating price condition
