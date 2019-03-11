@@ -54,5 +54,6 @@
    - ME9A - RFQ Messages
 
 * Afternoon 110319
-  - NACE -> Purchase Order -> ZNEU -> def vaule: dispatch time= send with application own transaction
-  
+  - NACE -> Purchase Order -> Output type: ZNEU -> def vaule: dispatch time= send with application own transaction  
+    - Go to condition records 
+    - maintain for message output(?)
