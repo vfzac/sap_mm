@@ -54,6 +54,7 @@
 * Important TCODES  
    - MEK1 - used for creating price condition
    - MK05 - Block Vendor
+   - XK05 - surprise mrrfrr
    - ME9F - Purchase Order Message Output
    - ME9A - RFQ Messages
 
@@ -61,3 +62,19 @@
   - NACE -> Purchase Order -> Output type: ZNEU -> def vaule: dispatch time= send with application own transaction  
     * Go to condition records 
     * maintain for message output(?)
+    
+    
+    
+* NOTES
+  - field selection = mandatory fields
+  - number assignments e.g. 6 for contract, 4 for POs, 5 for mats etc.
+  - item category
+    - requires a mareial number
+    - account assignment
+    - is to be placed in stock
+    - blank = standard
+    - Standard | Limit | Consignment
+  - RFQ Tcodes
+    - ME41 creating RFQ
+    - ME47 creating quotation
+    - ME49 price comparison
