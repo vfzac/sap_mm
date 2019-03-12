@@ -89,3 +89,7 @@
   - Non-stock material (NLAG)
     - use ofthis material type enables you to store the information required to create purchasing documents (
   
+* Account Assignment Category
+  - If you want to procure a material as a consumable, you must specify an account
+assignment category and other account assignment data in the document item
+of the purchase requisition or purchasing document.  
