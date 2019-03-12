@@ -78,3 +78,14 @@
     - ME41 creating RFQ
     - ME47 creating quotation
     - ME49 price comparison
+
+* Consumable Materials
+  - material that is subject to procurement and whose value is settled using the cost element  
+    accounts or the asset accounts. Therefore, consumable material is procured  
+    directly for an account assignment object.  
+  - must manually enter a short desc, group & purchase order unit because no master data
+  - Non-valuated Material (mat type UNBW)
+    - is subject to inventory management on a quantity basis, but not on a value basis.
+  - Non-stock material (NLAG)
+    - use ofthis material type enables you to store the information required to create purchasing documents (
+  
